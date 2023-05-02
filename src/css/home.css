@@ -1,0 +1,19 @@
+.back{
+    height: 100vh;
+    background-color: rgba(184, 9, 9, 0.986);
+}
+.myBack{
+    height: 150vh;
+    background-color: rgba(184, 9, 9, 0.986);
+}
+.image{
+    margin-left: 100px;
+}
+.heading{
+    margin-left: 120px;
+    margin-top: 120px;
+    width: 500px;
+}
+.intro{
+    margin-top: 100px;
+}
